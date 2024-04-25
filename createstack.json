@@ -1,0 +1,7 @@
+{
+  "Resources": {
+    "usalab": {
+      "Type": "AWS::S3::Bucket"
+    }
+  }
+}
